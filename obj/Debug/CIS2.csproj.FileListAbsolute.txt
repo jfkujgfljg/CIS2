@@ -1,0 +1,7 @@
+D:\project\CIS2\obj\Debug\CIS2.csproj.AssemblyReference.cache
+D:\project\CIS2\obj\Debug\CIS2.csproj.CoreCompileInputs.cache
+D:\project\CIS2\bin\Debug\CIS2.exe.config
+D:\project\CIS2\bin\Debug\CIS2.exe
+D:\project\CIS2\bin\Debug\CIS2.pdb
+D:\project\CIS2\obj\Debug\CIS2.exe
+D:\project\CIS2\obj\Debug\CIS2.pdb
